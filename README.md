@@ -1,5 +1,5 @@
 # am_devtools | DevTools – FiveM Development Utility Script
-DevTools is a lightweight development script designed to make testing and debugging easier for FiveM developers. 
+am_devtools is a lightweight standalone script that will help developing servers. There are basic features like a command to show you your coords etc.
 
 Features include:
 
